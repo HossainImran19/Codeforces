@@ -7,24 +7,17 @@ public class Magnets {
 		Scanner s = new Scanner(System.in);
 		int n = s.nextInt();
 		int a = 0, b = 0;
-//		for(int j = 0; j < n; j++) {
-//            int i = s.nextInt();
-//			
-//			if(i != b) {
-//				a++;
-//			}else {
-//				continue;
-//			}
-//			b = i;
-//		}
-		while(n+1>1) {
-			String st = s.next();
-			if(!st.equals(b)) {
+		for(int j = 0; j < n; j++) {
+                 int i = s.nextInt();
+			
+			if(i != b) {
 				a++;
-				b = a;
-				n--;
+			}else {
+				continue;
 			}
+			b = i;
 		}
+		
 		System.out.println(a); 
     }	
 }
