@@ -1,4 +1,7 @@
-package imran.code.forces;
+/*
+The problem is here "https://codeforces.com/problemset/problem/749/A" 	
+*/
+
 
 public class BachgoldProblem {
 
