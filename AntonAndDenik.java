@@ -1,4 +1,8 @@
-package imran.code.forces;
+/*
+The problem is here "https://codeforces.com/problemset/problem/734/A"
+*/
+
+
 import java.util.*;
 
 public class AntonAndDenik {
