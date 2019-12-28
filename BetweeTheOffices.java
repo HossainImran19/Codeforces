@@ -1,4 +1,7 @@
-package imran.code.forces;
+/*
+The problem is given here "https://codeforces.com/problemset/problem/867/A"
+*/
+
 import java.util.*;
 public class BetweeTheOffices {
 
