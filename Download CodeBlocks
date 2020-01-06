@@ -1,0 +1,5 @@
+step 1 : sudo apt-get install gcc gpp g++;
+step 2 : download this packge " https://sourceforge.net/projects/codeblocks/ "
+step 3 : go to the directory and type "tar -xf "FileName"" -> for extract the file.
+step 4 : download the packge by "sudo dpkg -i *17.12*.deb"
+step 5 : download "sudo apt-get install -f"
